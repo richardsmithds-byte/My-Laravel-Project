@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    padding: 30px;
+}
+
+h1{
+    color: blue;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+
+nav a:hover{
+    color: red;
+}
+
+footer{
+    margin-top: 30px;
+    color: gray;
+}
